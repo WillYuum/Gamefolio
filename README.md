@@ -4,6 +4,12 @@ Welcome to my game development showcase! Here, I present some of my notable proj
 
 > Please note that the source code for each game is available on GitHub. This README serves as a quick guide to help you navigate and understand my game development showcase faster.
 
+## Survival Quest
+- **Repository Link:** [GameJam Template]([https://github.com/WillYuum/GameJam-Template](https://github.com/WillYuum/UDC-Jam-30))
+- **Description:** A game jam that turned into a strategy game idea with inspiration from a favorite game FrostPunk .
+- **Engine Used:** Unity
+- **Role:** Sole developer responsible for creating and maintaining the template.
+
 ## GameJam Template
 - **Repository Link:** [GameJam Template](https://github.com/WillYuum/GameJam-Template)
 - **Description:** Unity custom template designed specifically for game jams, optimized for quick development and prototyping during time-constrained events.
