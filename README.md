@@ -5,6 +5,12 @@ Welcome to my game development showcase! Here, I present some of my notable proj
 > Please note that the source code for each game is available on GitHub. This README serves as a quick guide to help you navigate and understand my game development showcase faster.
 
 ## Survival Quest
+- **Repository Link:** [Playing Around World](https://github.com/WillYuum/playing_around_world)
+- **Description:** A game idea that's not finished but interested in having over 1000 enemies attacking the center base and player should defend the attacks. Let's see how this goes.
+- **Engine Used:** Bevy Game Engine
+- **Description:** Using Bevy with ECS style programming, it'll help me create huge amount of enemies spawns and nice visuals without having performance issues.
+
+## Survival Quest
 - **Repository Link:** [Survial Quest]([https://github.com/WillYuum/GameJam-Template](https://github.com/WillYuum/UDC-Jam-30))
 - **Description:** A game jam that turned into a strategy game idea with inspiration from a favorite game FrostPunk .
 - **Engine Used:** Unity
