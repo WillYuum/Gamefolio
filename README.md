@@ -4,7 +4,7 @@ Welcome to my game development showcase! Here, I present some of my notable proj
 
 > Please note that the source code for each game is available on GitHub. This README serves as a quick guide to help you navigate and understand my game development showcase faster.
 
-## Survival Quest
+## Playing Around World
 - **Repository Link:** [Playing Around World](https://github.com/WillYuum/playing_around_world)
 - **Description:** A game idea that's not finished but interested in having over 1000 enemies attacking the center base and player should defend the attacks. Let's see how this goes.
 - **Engine Used:** Bevy Game Engine
