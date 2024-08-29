@@ -10,10 +10,11 @@ Welcome to my game development showcase! Here, I present some of my notable proj
 - **Engine Used:** Bevy Game Engine
 - **Description:** Using Bevy with ECS style programming, it'll help me create huge amount of enemies spawns and nice visuals without having performance issues.
 
-## Survival Quest
-- **Repository Link:** [Survial Quest]([https://github.com/WillYuum/GameJam-Template](https://github.com/WillYuum/UDC-Jam-30))
+## Biomic
+- **Repository Link:** [Biomic](https://github.com/WillYuum/UDC-Jam-30)
 - **Description:** A game jam that turned into a strategy game idea with inspiration from a favorite game FrostPunk .
 - **Engine Used:** Unity
+- **Website:** www.playbiomic.com
 - **Role:** Sole developer responsible for creating and maintaining the template.
 
 ## GameJam Template
